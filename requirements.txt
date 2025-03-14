@@ -1,0 +1,8 @@
+discord.py
+yt-dlp
+spotipy
+asyncio
+collections
+sys
+os
+traceback
