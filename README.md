@@ -30,8 +30,8 @@ To start using this bot, you need a few things:
 
 Here are some example images of the bot in action:
 
-![🎵 Bot Example 1](path/to/image1.png)
-![🎵 Bot Example 2](path/to/image2.png)
+![🎵 Bot Example 1](music_bot_1.png)
+![🎵 Bot Example 2](music_bot_2.png)
 
 
 
